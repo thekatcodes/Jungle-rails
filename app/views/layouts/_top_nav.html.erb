@@ -69,7 +69,7 @@
         <span class = "signed-in-nav">Signed in as <%= current_user.name %> | </span> 
         <li><%= link_to "Log out", '/logout', class: "nav-link" %></li>
         <% else %>
-        <%= link_to 'Login', '/login', class: "nav-link" %> <li><%= link_to 'Signup', '/signup', class: "nav-link" %></li>
+        <%= link_to 'Log in', '/login', class: "nav-link" %> <li><%= link_to 'Sign up', '/signup', class: "nav-link" %></li>
         <% end %>
         </li>
       </ul>
