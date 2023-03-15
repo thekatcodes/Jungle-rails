@@ -1,4 +1,4 @@
-describe("product details page", () => {
+describe("Product details page", () => {
     beforeEach(() => {
       cy.visit("/");
       cy.get(".products article a").first().click();
