@@ -6,7 +6,12 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ### Home Page Demo
 
+https://user-images.githubusercontent.com/83685887/225451623-2770d950-c7c4-466a-a673-f23234528c6f.mov
+
 ### Cart/Checkout Demo
+
+https://user-images.githubusercontent.com/83685887/225451627-75da2b4d-4b98-4be4-ac3a-bb68f315c674.mov
+
 
 ## Setup
 
